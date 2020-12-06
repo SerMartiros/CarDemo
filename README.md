@@ -14,5 +14,5 @@ Press on Options toggle to enable several toggles that allow enabling/disabling 
 -Manual Rotation with Buttons;
 -Platform Rotation with Mouse;
 -Car Lights;
--Teleportation to spedicic boxes (position/rotation);
+-Teleportation to specific locations (position+rotation);
 -Color Picker;
