@@ -7,7 +7,7 @@ Includes:
 
 -ITweens
 
--Short Instruction
+---Short Instruction
 
 Press on Options toggle to enable several toggles that allow enabling/disabling functionality:
 -Automatic Platform Rotation;
