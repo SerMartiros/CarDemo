@@ -9,6 +9,8 @@ Includes:
 
 ---Short Instruction
 
+Interactions/Operations are done via Left Mouse/Right Mouse buttons.
+
 Press on Options toggle to enable several toggles that allow enabling/disabling functionality:
 -Automatic Platform Rotation;
 -Manual Rotation with Buttons;
