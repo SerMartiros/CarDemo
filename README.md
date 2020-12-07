@@ -9,7 +9,7 @@ Includes:
 
 ---Short Instruction
 
-Interactions/Operations are done via Left Mouse/Right Mouse buttons.(Open/Close doors, teleport to locations, drag/rotate platform,rotate view)
+Interactions/Operations are done via Left Mouse/Right Mouse buttons.(Open/Close doors, teleport to locations, drag/rotate platform)
 
 Also, possible to Rotate camera around with right mouse button press + mouse movement.
 
